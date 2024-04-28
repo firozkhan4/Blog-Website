@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build artifacts
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# OS files
+*.DS_Store
+*.swp
+
+# IDE files
+*.sublime-workspace
+*.vscode/
+
+# Coverage reports
+coverage/
+
+# npm debug logs
+npm-debug.log*
